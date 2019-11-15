@@ -1,0 +1,19 @@
+{
+  "name": "nodejsboostrap",
+  "version": "1.0.0",
+  "description": "Basic NodeJS Excercise for German IT Academy (git-academy.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "germanitacademy",
+    "gitacademy",
+    "expressjs",
+    "nodemon"
+  ],
+  "author": "Andrey Bulezyuk @ German IT Academy",
+  "license": "ISC"
+}
