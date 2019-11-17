@@ -1,7 +1,7 @@
 var express = require('express')
 var router = express.Router()
 const mongoose = require('mongoose')
-const product = require('./schema/product')
+const product = require('../schema/product')
 mongoose.connect('mongodb://localhost/nodejsrestapiboostrap', {
     useNewUrlParser: true,
     useUnifiedTopology: true 
